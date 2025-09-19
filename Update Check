@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "Is App Ko Buy Krny K Leay Contact Kro Owner sy",
+  "messageText": "Join Our New Channel",
   "updateButtonText": "Owner",
-  "updateButtonLink": "https://wa.me/+923117030492",
+  "updateButtonLink": "https://whatsapp.com/channel/0029Vb6iYcqGZNCyUhRSbo2T",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "Cancel",
